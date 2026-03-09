@@ -2,7 +2,7 @@
 
 # こんにちは I'm Bani, you can call me usagi 🐰
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Game+Developer;Anime+%26+Code+Lover;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&duration=3000&color=FF3E9B&center=true&vCenter=true&width=600&lines=Frontend+Developer;Future+Game+Developer;Anime+%26+Code+Lover" />
 
 </div>
 
@@ -58,7 +58,7 @@
 https://usa-portfolio.netlify.app/
 
 📂 GitHub Repositories  
-https://github.com/Usa-bunny
+https://github.com/Usa-bunny?tab=repositories
 
 ---
 
@@ -70,7 +70,7 @@ I love working with people on interesting projects!
 
 🎨 Frontend Projects  
 🎮 Game Development  
-🎌 Japanese Learning  
+🎌 Japanese Learning
 🚀 Startup Ideas  
 
 ---
