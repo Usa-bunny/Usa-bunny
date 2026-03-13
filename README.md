@@ -8,17 +8,17 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
-💻 Passionate about **Web Development & Programming**  
-🎮 Interested in **Game Development**  
-🎌 Currently learning **Japanese**  
+Passionate about **Web Development & Programming**  
+Interested in **Game Development**  
+Currently learning **Japanese**  
 
 ✨ My goal: **build cool projects that combine creativity + logic**
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -32,7 +32,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -42,36 +42,26 @@
 
 ---
 
-# 🐍 Contribution Snake
+# Portfolio
 
-<div align="center">
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🌐 Portfolio
-
-💼 Portfolio  
+Portfolio  
 https://usa-portfolio.netlify.app/
 
-📂 GitHub Repositories  
+GitHub Repositories  
 https://github.com/Usa-bunny?tab=repositories
 
 ---
 
-# 🤝 Let's Collaborate
+# Let's Collaborate
 
-I love working with people on interesting projects!
+I love working with people on interesting in tech!
 
 ### We can collaborate on:
 
-🎨 Frontend Projects  
-🎮 Game Development  
-🎌 Japanese Learning
-🚀 Startup Ideas  
+Frontend Projects  
+Game Development  
+Japanese Learning
+Startup Ideas  
 
 ---
 
